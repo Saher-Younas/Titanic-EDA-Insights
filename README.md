@@ -5,7 +5,7 @@
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset. The analysis covers data cleaning, univariate and bivariate analysis, visualizations, and key insights to understand passenger survival factors.
 
 ## Dataset
-The dataset used for this analysis is the Titanic dataset, which contains information on passengers, including their age, gender, class, fare, and survival status. [https://github.com/Saher-Younas/Titanic-EDA-Insights/blob/main/titanic.csv]
+The dataset used for this analysis is the Titanic dataset, which contains information on passengers, including their age, gender, class, fare, and survival status. [Dataset](https://github.com/Saher-Younas/Titanic-EDA-Insights/blob/main/titanic.csv)
 
 ---
 
